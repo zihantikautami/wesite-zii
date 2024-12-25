@@ -1,2 +1,0 @@
-# wesite-zii
-web
